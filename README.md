@@ -1,5 +1,5 @@
 
-![MasterHead](https://github.com/poojaRavikumar/poojaRavikumar/blob/main/github-header-image2.jpeg)
+![MasterHead](https://github.com/poojaRavikumar/poojaRavikumar/blob/main/github-header-image2.png)
 <h3 align="center">I'm Dedicated and solution-oriented technology professional with expertise in software engineering, data analysis, and client-focused project management, consistently delivering innovative and efficient results.</h3>
 <img align="left" alt="Coding" width="1000" src="https://private-user-images.githubusercontent.com/74038190/249570803-02293768-9242-47e1-bf8f-d084ba0a2d1d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQxMzUwMTQsIm5iZiI6MTczNDEzNDcxNCwicGF0aCI6Ii83NDAzODE5MC8yNDk1NzA4MDMtMDIyOTM3NjgtOTI0Mi00N2UxLWJmOGYtZDA4NGJhMGEyZDFkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjE0VDAwMDUxNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJmMTI0MjY5ZWU4ZGVlYjE4YzdmM2UxMjEyZWU1MmZkNWI4OTE3NzU5NThlNDUxOGViNGY5YmM5MWM5NzJhZGMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ipOFFNlXlZlmnBuWF1R9lnnT_42Yi-puU1b1_PA3AWg">
 
